@@ -28,5 +28,19 @@ GoogleDrive:
 https://drive.google.com/drive/folders/1Z61_mfh2vwzqDxejt5idBOgYhWOCZOr5?usp=sharing
 
 ## Code will be released soon.
+\author{Fei~Xie$^{1}$\textsuperscript{\thanks {Interns at MSRA} }, Chunyu Wang$^{2}$, Guangting Wang$^{2}$, Wankou Yang$^{1}$,  Wenjun Zeng$^{2}$\\
+$^{1}$School of Automation, Southeast University, China\\
+$^{2}$Microsoft Research Asia\\
+
+{\tt\small jaffe03@seu.edu.cn, chnuwa@microsoft.com\\ \tt\small flylight@ustc.edu.cn, wkyang@seu.edu.cn, wezeng@microsoft.com}
+}
 
 We present a simple Siamese-like Dual-branch network based on solely Transformer networks to learn about tracking features.  Given a template and a search image, we divide them into non-overlapping image patches and extract a feature vector for each based on its matching results with others within an attention window.  Then for each token, we estimate whether it contains the target object and the corresponding size. The prominent advantage of the approach is that the features are learned from matching, and ultimately, for matching. So the features are aligned with the subsequent object tracking task. The method notably outperforms the best-performing methods which first use CNN to extract features and then use Transformer to fuse them. Without bells and whistles, it outperforms the state-of-the-art methods on multiple challenging benchmarks. In addition, the method achieves real-time inference speed.
+
+## Acknowledgments
+* Thanks for the great [PyTracking](https://github.com/visionml/pytracking) Library, which helps us to quickly implement our ideas.
+* We use the implementation of the Swin Transformer from the official repo [https://github.com/microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer).  
+
+## Contacts
+* Fei Xie, School of Automation, Southeast University, China, jaffe03@seu.edu.cn
+
