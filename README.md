@@ -1,8 +1,8 @@
 
-# Learning Tracking Representations via Dual-Branch Fully Transformer Networks (DualTFR)
-
+# Learning Tracking Representations via Dual-Branch Fully Transformer Networks 
+## DualTFR
 ### For VOT21 challenge model weight download:
-##### Download model weight 
+
 We provide the models of Five trackers *SAMN*, *SAMN_DiMP*, *DualTFR*, *DualTFRst*, *DualTFRon* here.
 
 Note that the *AlphaRefine* (https://github.com/MasterBin-IIAU/AlphaRefine) model 
