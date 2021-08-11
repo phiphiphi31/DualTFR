@@ -1,4 +1,5 @@
-# DualTFR
+
+# Learning Tracking Representations via Dual-Branch Fully Transformer Networks (DualTFR)
 
 ### For VOT21 challenge model weight download:
 ##### Download model weight 
