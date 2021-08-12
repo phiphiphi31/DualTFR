@@ -1,6 +1,7 @@
 
 # Learning Tracking Representations via Dual-Branch Fully Transformer Networks 
 ## DualTFR
+:star: We achieves the runner-ups for both VOT2020ST (short-term) and RT(real-time). The variants of DualTFR take 3rd/4th places of VOT2020RT and 5th places of VOT2020ST
 ### For VOT21 challenge model weight download:
 
 We provide the models of Five trackers *SAMN*, *SAMN_DiMP*, *DualTFR*, *DualTFRst*, *DualTFRon* here.
