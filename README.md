@@ -3,7 +3,7 @@
 ## DualTFR
 :star: We achieves the runner-ups for both VOT2021ST (short-term) and RT(real-time). The variants of DualTFR take 3rd/4th places of VOT2020RT and 4th places of VOT2020ST
 
-### The paper is available in ArxiV, https://arxiv.org/pdf/2112.02571.pdf
+### The paper is available in ArXiv, https://arxiv.org/pdf/2112.02571.pdf
 
 ### For VOT21 challenge model weight download:
 
