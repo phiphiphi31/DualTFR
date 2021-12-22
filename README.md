@@ -2,6 +2,7 @@
 # Learning Tracking Representations via Dual-Branch Fully Transformer Networks 
 ## DualTFR
 :star: We achieves the runner-ups for both VOT2021ST (short-term) and RT(real-time). The variants of DualTFR take 3rd/4th places of VOT2020RT and 4th places of VOT2020ST
+
 :star: If you are interested in building a Fully Transformer-based Tracker, please refer to our new work: https://github.com/phiphiphi31/SuperSBT 
 
 ### The paper is available in ArXiv, https://arxiv.org/pdf/2112.02571.pdf
