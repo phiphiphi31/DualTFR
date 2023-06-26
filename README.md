@@ -18,5 +18,5 @@ We present a simple Siamese-like Dual-branch network based on solely Transformer
 * We use the implementation of the Swin Transformer from the official repo [https://github.com/microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer).  
 
 ## Contacts
-* Fei Xie, School of Automation, Southeast University, China, 372998044@qq.com
+* Fei Xie, 	jaffe0319@gmail.com
 
